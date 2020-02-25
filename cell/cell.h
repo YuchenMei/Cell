@@ -24,7 +24,7 @@
 
 #include "glad/glad.h"
 
-class GLFWwindow;
+struct GLFWwindow;
 
 namespace Cell
 {
